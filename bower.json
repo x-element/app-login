@@ -1,0 +1,8 @@
+{
+  "name": "app-login",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0",
+    "app-session": "x-element/app-session",
+    "api-user-login": "x-element/api-user-login"
+  }
+}
